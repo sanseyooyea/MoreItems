@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "FDF",
+    "FEF"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stone_shovel"
+    },
+    "B": {
+      "item": "minecraft:stone_pickaxe"
+    },
+    "C": {
+      "item": "minecraft:stone_sword"
+    },
+    "D": {
+      "item": "minecraft:stone_hoe"
+    },
+    "E": {
+      "item": "minecraft:stone_axe"
+    },
+    "F": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "moreitems:stone_sword_tool"
+  }
+}

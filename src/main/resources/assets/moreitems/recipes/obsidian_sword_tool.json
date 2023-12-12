@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "FDF",
+    "FEF"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:obsidian_shovel"
+    },
+    "B": {
+      "item": "minecraft:obsidian_pickaxe"
+    },
+    "C": {
+      "item": "minecraft:obsidian_sword"
+    },
+    "D": {
+      "item": "minecraft:obsidian_hoe"
+    },
+    "E": {
+      "item": "minecraft:obsidian_axe"
+    },
+    "F": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "moreitems:obsidian_sword_tool"
+  }
+}

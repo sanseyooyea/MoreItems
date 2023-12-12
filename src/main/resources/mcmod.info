@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "moreitems",
+    "name": "MoreItems",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "SanseYooyea"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

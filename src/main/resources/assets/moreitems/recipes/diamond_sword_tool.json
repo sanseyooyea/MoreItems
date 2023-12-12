@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "FDF",
+    "FEF"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:diamond_shovel"
+    },
+    "B": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "C": {
+      "item": "minecraft:diamond_sword"
+    },
+    "D": {
+      "item": "minecraft:diamond_hoe"
+    },
+    "E": {
+      "item": "minecraft:diamond_axe"
+    },
+    "F": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "moreitems:diamond_sword_tool"
+  }
+}

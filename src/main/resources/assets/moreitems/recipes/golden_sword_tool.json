@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "FDF",
+    "FEF"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:golden_shovel"
+    },
+    "B": {
+      "item": "minecraft:golden_pickaxe"
+    },
+    "C": {
+      "item": "minecraft:golden_sword"
+    },
+    "D": {
+      "item": "minecraft:golden_hoe"
+    },
+    "E": {
+      "item": "minecraft:golden_axe"
+    },
+    "F": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "moreitems:golden_sword_tool"
+  }
+}

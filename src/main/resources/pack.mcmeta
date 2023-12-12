@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "moreitems's resources",
+    "pack_format": 3,
+    "_comment": "The pack format is the version of the pack format that this pack uses. It is currently 3. This value must be present and greater than 0."
+  }
+}

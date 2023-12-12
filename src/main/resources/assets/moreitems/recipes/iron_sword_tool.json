@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "FDF",
+    "FEF"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_shovel"
+    },
+    "B": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "C": {
+      "item": "minecraft:iron_sword"
+    },
+    "D": {
+      "item": "minecraft:iron_hoe"
+    },
+    "E": {
+      "item": "minecraft:iron_axe"
+    },
+    "F": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "moreitems:iron_sword_tool"
+  }
+}

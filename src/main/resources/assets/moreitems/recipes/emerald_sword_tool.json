@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "FDF",
+    "FEF"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:emerald_shovel"
+    },
+    "B": {
+      "item": "minecraft:emerald_pickaxe"
+    },
+    "C": {
+      "item": "minecraft:emerald_sword"
+    },
+    "D": {
+      "item": "minecraft:emerald_hoe"
+    },
+    "E": {
+      "item": "minecraft:emerald_axe"
+    },
+    "F": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "moreitems:emerald_sword_tool"
+  }
+}
